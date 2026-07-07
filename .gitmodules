@@ -1,0 +1,3 @@
+[submodule "name-of-first-private-repo"]
+    path = seminal-code-factory
+    url = https://github.com/PreethiJohn1228/seminal-code-factory.git
