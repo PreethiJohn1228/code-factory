@@ -7,3 +7,6 @@
 [submodule "toastTab-code-factory"]
 	path = toastTab-code-factory
 	url = https://github.com/PreethiJohn1228/toastTab-code-factory
+[submodule "portfolio"]
+	path = portfolio
+	url = https://github.com/PreethiJohn1228/portfolio
